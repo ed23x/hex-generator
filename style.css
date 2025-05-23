@@ -1,0 +1,16 @@
+#color-box {
+    width: 450px;
+    height: 450px;
+    border: 1px solid black;
+    margin: 10px auto; /* Center the box */
+    cursor: pointer; /* Indicate it's clickable */
+    background-color: black; /* Set background to black */
+}
+#hex-code {
+    text-align: center; /* Center the hex code text */
+    font-family: monospace;
+    color: black; /* Set text to white */
+}
+
+@media (prefers-color-scheme: dark) {
+}
